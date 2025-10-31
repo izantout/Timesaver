@@ -6,6 +6,9 @@ import SwiftUI
 #endif
 
 struct ContentView: View {
+    // MARK: This app was done by Issam Zantout. issamzantout18@gmail.com
+
+    
     // MARK: Variables
     
     // Showcase
